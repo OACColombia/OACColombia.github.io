@@ -1,0 +1,15 @@
+---
+title: "Monitoring population extinction risk with community science data"
+description: |
+  Leveraging “the power of people” allows estimating local persistence probability as a risk-based population viability, closely aligning estimation from standardized, systematic monitoring.
+date: 2025-07-12
+url_source: https://doi.org/10.1111/1365-2664.70108
+journ: "Journal of Applied Ecology"
+image: "Graphical Abstract.jpg"
+---
+
+[{{< fa brands github >}} Supporting Tutorial in GitHub](https://oaccolombia.github.io/vpm_eBird/vpm_eBird-to-html.html)
+
+The robust estimation of local extinction risk is central to inform management and conservation efforts. Still, estimating this key demographic parameter requires standardized monitoring data that are lacking for most species and systems. The analysis of community science data is emerging as a promising alternative. These expansive datasets leverage observations from multiple volunteers that provide higher temporal and spatial resolution. Nevertheless, the proper analysis of community science data is challenging because it requires accounting for additional complexities in the intrinsic ecological and observational processes. To address this issue, we describe and test a quantitative approach that fits continuous state-space models iteratively to eBird data with the ultimate goal of estimating local persistence probability through time. We evaluated model accuracy by comparing estimates and trends from eBird with those from the endangered Everglades' snail kite long-term, standardized monitoring project. We also performed two separate sensitivity analyses (temporal and sampling thinning) to assess how robust the persistence estimates are to a reduction in the number of eBird observations available. Our results showed that the temporal trend trajectory of local population persistence estimated from eBird closely matched that from standardized monitoring. Moreover, the trend remained similar even when reducing the amount of eBird data available to 5% of the original dataset—a reduction from 258 to 13 weeks or from 7714 to 385 lists of observations across 5 years of monitoring. *Synthesis and applications*. Our modelling framework provides a robust, computationally efficient and easy-to-apply tool for monitoring local persistence probability that can support global conservation efforts. This will complement the monitoring of species population viability in places where standardized monitoring is still lacking, but community science observations are common.
+
+See our publication in the [Journal of Applied Ecology](https://doi.org/10.1111/1365-2664.70108)

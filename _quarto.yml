@@ -11,6 +11,11 @@ website:
       - about.qmd
       - publications.qmd
 
+  page-footer: 
+    background: light
+    left: © 2025 Orlando Acevedo-Charry
+    right: This website was based on [Samantha Shanny-Csik](https://ucsb-meds.github.io/creating-quarto-websites/) impressive tutorial
+
 format:
   html:
     theme: flatly
