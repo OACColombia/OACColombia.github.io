@@ -20,3 +20,7 @@ Welcome to my site!
 I am a PhD candidate in Interdisciplinary Ecology ([SNRE](https://snre.ifas.ufl.edu/){target="_blank"}) with concentration in [Wildlife Ecology and Conservation](https://wec.ifas.ufl.edu/){target="_blank"}, advised by [Dr. Miguel Acevedo](https://maacevedo.github.io){target="_blank"}. I am also part of the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu){target="_blank"}, co-advised by [Dr. Scott Robinson](https://www.floridamuseum.ufl.edu/people/scott-robinson/){target="_blank"}, and the [Tropical Conservation and Development](https://uftcd.org){target="_blank"} program. 
 
 My research interests are broad, ranging from participatory science and outreach programs to biodiversity monitoring and global change ecology, including the use of a variety of tools such as acoustics, community science, ecological modeling, and/or field exploration.
+
+# ACKNOWLEDGEMENT OF PRIVILEGE
+
+I acknowledge that my experiences have been shaped by the privileges afforded to me by my gender, race, and birthplace (a capital city), along with the support of my family and mentors in pursuing my dreams. We should each make a personal effort to extend these opportunities to many others.
