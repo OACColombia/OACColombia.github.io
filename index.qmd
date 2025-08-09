@@ -1,10 +1,9 @@
 ---
-title: "OACColombia.github.io"
+title: "Orlando Acevedo-Charry"
+image: media/oac_profile_headshot.JPG
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my site! I am a PhD candidate in Interdisciplinary Ecology ([SNRE](https://snre.ifas.ufl.edu/){target="_blank"}) with concentration in [Wildlife Ecology and Conservation](https://wec.ifas.ufl.edu/){target="_blank"}, advised by [Dr. Miguel Acevedo](https://maacevedo.github.io){target="_blank"}. I am also part of the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu){target="_blank"}, co-advised by [Dr. Scott Robinson](https://www.floridamuseum.ufl.edu/people/scott-robinson/){target="_blank"}, and the [Tropical Conservation and Development](https://uftcd.org){target="_blank"} program. 
 
 ```{r}
 1 + 1
