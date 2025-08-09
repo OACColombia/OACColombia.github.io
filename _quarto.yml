@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "OACColombia.github.io"
+  title: "Orlando Acevedo-Charry"
   navbar:
     left:
       - href: index.qmd

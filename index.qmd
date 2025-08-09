@@ -1,19 +1,17 @@
 ---
 title: "Orlando Acevedo-Charry"
-image: media/headshot.jpeg
-toc: false
+  image: media/headshot.jpeg
+  toc: false
 about:
   template: jolla
-  image-shape: round
   image-width: 17em
   links: 
     - text: ResearchGate
-      href: https://www.researchgate.net/profile/Orlando-Acevedo-Charry?ev=hdr_xprf
+    href: https://www.researchgate.net/profile/Orlando-Acevedo-Charry?ev=hdr_xprf
     - text: GitHub
-      href: https://github.com/OACColombia
+    href: https://github.com/OACColombia
     - text: Email
-      href: mailto:oacevedocharry@ufl.edu
-      
+    href: mailto::oacevedocharry@ufl.edu
 ---
 
 Welcome to my site! 
