@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Orlando Acevedo-Charry"
+  title: "OAC"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publications.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
