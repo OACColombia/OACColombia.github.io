@@ -17,9 +17,11 @@ about:
 
 # Welcome to my site! 
 
-I am a PhD candidate in Interdisciplinary Ecology of the School of Natural Resources and Environment  ([SNRE](https://snre.ifas.ufl.edu/){target="_blank"}) at the University of Florida. My academic program includes a concentration in Wildlife Ecology and Conservation ([WEC](https://wec.ifas.ufl.edu/){target="_blank"}), home department of my advisor Dr. Miguel  [Acevedo](https://maacevedo.github.io){target="_blank"}. I am also part of the Florida Museum of Natural History ([FMNH](https://www.floridamuseum.ufl.edu){target="_blank"}), home department of my co-advisor Dr. Scott [Robinson](https://www.floridamuseum.ufl.edu/people/scott-robinson/){target="_blank"}. Finally, I also collaborate with the Tropical Conservation and Development program ([TCD](https://uftcd.org){target="_blank"}). 
+I am a PhD Interdisciplinary Ecologist graduated from the School of Natural Resources and Environment  ([SNRE](https://snre.ifas.ufl.edu/){target="_blank"}) at the University of Florida. My academic program included a concentration in Wildlife Ecology and Conservation ([WEC](https://wec.ifas.ufl.edu/){target="_blank"}), home department of my advisor Dr. Miguel  [Acevedo](https://maacevedo.github.io){target="_blank"}. I was also part of the Florida Museum of Natural History ([FMNH](https://www.floridamuseum.ufl.edu){target="_blank"}), home department of my co-advisor Dr. Scott [Robinson](https://www.floridamuseum.ufl.edu/people/scott-robinson/){target="_blank"}. Finally, I also collaborated with the Tropical Conservation and Development program ([TCD](https://uftcd.org){target="_blank"}).
 
 My research interests are broad, ranging from participatory science and outreach programs to biodiversity monitoring and global change ecology, including the use of a variety of tools such as acoustics, community science, ecological modeling, and/or field exploration.
+
+Currently I am a postdoctoral researcher at WEC-UF, working with quantitative analyses of population dynamics of the marvelous Everglades Snail Kite (*Rostrhamus sociabilis plumbeus*).
 
 # Acknowledgement of privilege
 
