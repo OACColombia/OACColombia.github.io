@@ -8,7 +8,7 @@ about:
   image-width: 17em
   links: 
     - text: ResearchGate
-      href: https://www.researchgate.net/profile/Orlando-Acevedo-Charry?ev=hdr_xprf
+      href: https://www.researchgate.net/profile/Orlando-Acevedo-Charry
     - text: GitHub
       href: https://github.com/OACColombia
     - text: Email
